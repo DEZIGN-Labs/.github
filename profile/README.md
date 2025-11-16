@@ -76,7 +76,7 @@
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
-| [basement-sensor-esp32](./basement-sensor-esp32) | WiFi environmental monitoring | 🔨 Active | ESP32-C3, BME688 |
+| [Logger PHT](./Logger-PHT)) | WiFi environmental monitoring | 🔨 Active | ESP32-C3, BME688 |
 | [kicad-templates](./kicad-templates) | Reusable PCB design templates | 💡 Planned | KiCad |
 | [iot-library](./iot-library) | Sensor abstraction library | 💡 Planned | C/C++ |
 
